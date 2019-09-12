@@ -60,6 +60,27 @@ var routes = [
     layout: "/admin"
   },
   {
+    path: "/courses",
+    name: "Courses",
+    icon: "ni ni-bullet-list-67 text-red",
+    component: Tables,
+    layout: "/admin"
+  },
+  {
+    path: "/students",
+    name: "Students",
+    icon: "ni ni-bullet-list-67 text-red",
+    component: Tables,
+    layout: "/admin"
+  },
+  {
+    path: "/teachers",
+    name: "Teachers",
+    icon: "ni ni-bullet-list-67 text-red",
+    component: Tables,
+    layout: "/admin"
+  },
+  {
     path: "/login",
     name: "Login",
     icon: "ni ni-key-25 text-info",
