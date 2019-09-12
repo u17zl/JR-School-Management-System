@@ -17,14 +17,14 @@ npm start
 
 ## Todo Lists
 
-[] Add Student 
-[] Course Details 
-[] Course List 
-[] List Student 
-[] Student Details 
-[] Student Details 
-[] Student Enroll Course 
-[] List Owners 
+- [ ] Add Student 
+- [ ] Course Details 
+- [ ] Course List 
+- [ ] List Student 
+- [ ] Student Details 
+- [ ] Student Details 
+- [ ] Student Enroll Course 
+- [ ] List Owners 
 
 ## Site Structure
 
