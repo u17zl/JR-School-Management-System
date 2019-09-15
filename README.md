@@ -4,8 +4,20 @@ This is a basic demo of management system in JR Academy
 ## How to run 
 
 ```
+// frontend project
+cd frond
 npm install 
 npm start
+```
+```
+// backend project
+cd backend
+npm install 
+npm start
+
+//or
+npm install nodemon --global
+nodemon start
 ```
 
 
