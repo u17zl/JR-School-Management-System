@@ -5,7 +5,7 @@ This is a basic demo of management system in JR Academy
 
 ```
 // frontend project
-cd frond
+cd frondend
 npm install 
 npm start
 ```
